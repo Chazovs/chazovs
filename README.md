@@ -10,7 +10,7 @@
 - Backend Developer
 - Focused on PHP
 - Hackathoner
-
+- <a href="https://www.linkedin.com/in/chazov-sergey/">More statistics</a>
 <!--
 **Chazovs/chazovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
