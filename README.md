@@ -5,8 +5,9 @@
 <img align="left" alt="chazovs's Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchazovs" />
 <br />
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chazovs&show_icons=true">
-
+<a href="https://www.codewars.com/users/Chazovs">
 <img align='right' src="https://www.codewars.com/users/Chazovs/badges/large">
+  </a>
 
 ### About
 - Backend Developer
