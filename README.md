@@ -6,7 +6,7 @@
 <br />
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chazovs&show_icons=true">
 
-<img align='right' src="[https://github-readme-stats.vercel.app/api?username=chazovs&show_icons=true](https://www.codewars.com/users/Chazovs/badges/large)">
+<img align='right' src="https://www.codewars.com/users/Chazovs/badges/large">
 
 ### About
 - Backend Developer
